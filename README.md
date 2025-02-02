@@ -177,27 +177,3 @@ Example data for testing:
   ```bash
   pytest --cov=faq
   ```
-
-## Contribution Guidelines
-- Follow PEP8 guidelines for Python code.
-- Use meaningful commit messages (e.g., `feat: Add multilingual support`).
-- Submit a pull request with a detailed description of changes.
-
-## Submission Guidelines
-### Steps to Submit Your Solution
-1. Attempt the assignment and complete your solution.
-2. Open an issue in this repository with the relevant tag (backend or frontend, depending on the test you're applying for).
-3. Once done, tag `@theakshaydhiman` in the issue, and we will review your code.
-4. Include the link to your GitHub repository, which must be publicly accessible.
-
-### Repository Requirements
-Ensure your repository contains a detailed README with:
-- Installation steps
-- API usage examples
-- Any additional notes or instructions
-
-Use Git for version control, with meaningful commit messages.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
